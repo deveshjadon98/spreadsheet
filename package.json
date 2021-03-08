@@ -7,7 +7,7 @@
   },
   "repository": "https://github.com/googlecodelabs/sheets-api",
   "scripts": {
-    "start": "server.js",
+    "start": "node server.js",
     "heroku-postbuild" : "yarn start"
   },
   "dependencies": {
