@@ -5,7 +5,7 @@
   "author": {
     "name": "Critox Logistics"
   },
-  "repository": "https://github.com/googlecodelabs/sheets-api",
+  "repository": "https://github.com/deveshjadon98/spreadsheet",
   "scripts": {
     "start": "node server.js",
     "heroku-postbuild" : "yarn start"
