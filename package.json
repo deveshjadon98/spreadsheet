@@ -7,7 +7,7 @@
   },
   "repository": "https://github.com/googlecodelabs/sheets-api",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "server.js",
     "heroku-postbuild" : "yarn start"
   },
   "dependencies": {
